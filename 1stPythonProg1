@@ -1,0 +1,18 @@
+handset_id = 90993
+plan = 199
+print(handset_id, plan)
+print('next block of code')
+if(plan==199):
+     op = 'You are eliglbe for a discount';
+else:
+     op = 'You are NOT eligible for a discount';
+print(op)
+
+plan = 200
+print(handset_id, plan)
+print('next block of code')
+if(plan==199):
+     op = 'You are eliglbe for a discount';
+else:
+     op = 'You are NOT eligible for a discount';
+print(op)
